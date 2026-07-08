@@ -1,2 +1,0 @@
-# nanoGPT-plus
-test
